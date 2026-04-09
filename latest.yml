@@ -1,8 +1,8 @@
-version: 4.10.5
+version: 4.11.0
 files:
-  - url: Minmo-Driver-Pack-Setup-4.10.5.exe
-    sha512: 7OuwQsJCHEBN+GjE+0pv/mOkZBRrxuyyPcQ647IwDmdSv4Zjv0yjIztIec9WjYHhFkANz2973RVV0+8y0FwvAw==
-    size: 90616953
-path: Minmo-Driver-Pack-Setup-4.10.5.exe
-sha512: 7OuwQsJCHEBN+GjE+0pv/mOkZBRrxuyyPcQ647IwDmdSv4Zjv0yjIztIec9WjYHhFkANz2973RVV0+8y0FwvAw==
-releaseDate: '2026-04-08T12:49:57.793Z'
+  - url: Minmo-Driver-Pack-Setup-4.11.0.exe
+    sha512: ixj+EZxt0TCOtwuVPscSMmE1OJyTEiBFhdXLFUgIxr0PbEPOh3lv4PIAVoJF7M1+ZH3+FxXq7ilOP2EqoLS1Qg==
+    size: 90617464
+path: Minmo-Driver-Pack-Setup-4.11.0.exe
+sha512: ixj+EZxt0TCOtwuVPscSMmE1OJyTEiBFhdXLFUgIxr0PbEPOh3lv4PIAVoJF7M1+ZH3+FxXq7ilOP2EqoLS1Qg==
+releaseDate: '2026-04-09T16:32:42.610Z'
